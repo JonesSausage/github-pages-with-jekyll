@@ -1,3 +1,3 @@
-# Welcome to my blog
+Myles Knipper Resume
 
 I'm glad you are here. I plan to talk about ...
